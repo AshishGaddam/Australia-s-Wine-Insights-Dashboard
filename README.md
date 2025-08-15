@@ -6,8 +6,6 @@ Interactive Tableau dashboard providing insights into Australia’s wine industr
 ## 🔗 View Interactive Dashboard
 👉 [Click here to explore on Tableau Public](https://public.tableau.com/views/AustraliasWineInsightsDashboard_17551786639340/AustraliasWineInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🖼️ Preview
-![Dashboard Preview](https://raw.githubusercontent.com/<username>/<repo-name>/main/dashboard.png)
 
 ## 📁 Files Included
 - `dashboard.png` – Snapshot of dashboard  
